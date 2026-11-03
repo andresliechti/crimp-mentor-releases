@@ -1,0 +1,6 @@
+{
+ "build": 1,
+ "date": "2026-11-03",
+ "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
+ "notes": "First Android build: English UI, Tindeq auto-connect, settings, backup"
+}
