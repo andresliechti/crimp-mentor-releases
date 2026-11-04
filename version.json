@@ -1,6 +1,6 @@
 {
- "build": 2,
- "date": "2026-11-03",
+ "build": 3,
+ "date": "2026-11-04",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Practice mode, sync with GitHub, plans and programs from Claude"
+ "notes": "New design: granite and rope, Today page, warm-up to training in one flow, training on one screen"
 }
