@@ -1,6 +1,6 @@
 {
- "build": 4,
+ "build": 5,
  "date": "2026-11-04",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Plan: free days, 4-7 week blocks, pauses, warning levels, climbing questions, reminders"
+ "notes": "Zone sound, sound test, full-screen colour, voice in English"
 }
