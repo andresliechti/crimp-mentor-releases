@@ -1,6 +1,6 @@
 {
- "build": 7,
- "date": "2026-11-04",
+ "build": 8,
+ "date": "2026-11-05",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Zone sound: drum, woodblock, chirp; clearer countdown. Finger check, records, weekly review, load jump warning, reference values, overlay curves, rehab programs."
+ "notes": "Live graph and bar zoomed on the target zone, bigger bar. Ring in the rope colour. Two sessions of the same program per week counted separately. Climbing: routes / boulder / both. Scrollable overview, clearer load chart, reference values always from 20 mm."
 }
