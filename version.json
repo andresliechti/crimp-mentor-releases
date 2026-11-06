@@ -1,6 +1,6 @@
 {
- "build": 11,
+ "build": 12,
  "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Plan by tapping a day: all programs and tests with today's values. Tests are appointments, no test week; blocks start with an optional deload week. \u00abMax test due\u00bb hint."
+ "notes": "Tidier: settings in groups (frequent ones first), max values entered like CF, edge names, Bluetooth delay only with Bluetooth audio, session card higher on Today, less text."
 }
