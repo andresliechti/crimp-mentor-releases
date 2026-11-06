@@ -1,6 +1,6 @@
 {
- "build": 12,
+ "build": 13,
  "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Tidier: settings in groups (frequent ones first), max values entered like CF, edge names, Bluetooth delay only with Bluetooth audio, session card higher on Today, less text."
+ "notes": "Live graph fixed on your phone, big rep number, less text in training, pause freezes the display and has settings, learning goes up when you pull above the zone, history sessions first, overview with year."
 }
