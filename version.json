@@ -1,6 +1,6 @@
 {
- "build": 10,
+ "build": 11,
  "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Plan fix: a week you already trained in keeps its block (test-week toggle no longer resets it), sessions outside the plan and warm-ups on climbing days are ticked from the history."
+ "notes": "Plan by tapping a day: all programs and tests with today's values. Tests are appointments, no test week; blocks start with an optional deload week. \u00abMax test due\u00bb hint."
 }
