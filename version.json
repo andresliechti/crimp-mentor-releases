@@ -1,6 +1,6 @@
 {
- "build": 9,
- "date": "2026-11-05",
+ "build": 10,
+ "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Zone tolerance selectable (default \u00b12.5 %). One plan row per program incl. test days. Next block only after you plan it. New Today order. Edges like devices, CF and contact strength by hand. Clearer summary."
+ "notes": "Plan fix: a week you already trained in keeps its block (test-week toggle no longer resets it), sessions outside the plan and warm-ups on climbing days are ticked from the history."
 }
