@@ -1,6 +1,6 @@
 {
- "build": 13,
+ "build": 14,
  "date": "2026-11-06",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Live graph fixed on your phone, big rep number, less text in training, pause freezes the display and has settings, learning goes up when you pull above the zone, history sessions first, overview with year."
+ "notes": "Plan block step by step (goal, days, length, tests) \u2013 nothing changes before Confirm, Undo for plan changes. Help with pictures. Summary: 3 key values vs last time, details on tap, note per session. Start goes straight into training."
 }
