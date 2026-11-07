@@ -1,6 +1,6 @@
 {
- "build": 14,
- "date": "2026-11-06",
+ "build": 15,
+ "date": "2026-11-07",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Plan block step by step (goal, days, length, tests) \u2013 nothing changes before Confirm, Undo for plan changes. Help with pictures. Summary: 3 key values vs last time, details on tap, note per session. Start goes straight into training."
+ "notes": "RFD with 2 kg pre-tension: the start tone waits until the chain is taut and still, jerky pulls are repeated, result from the best 2, curves in the summary. Device step always before training. Weights set in Settings."
 }
