@@ -1,6 +1,6 @@
 {
- "build": 15,
+ "build": 16,
  "date": "2026-11-07",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "RFD with 2 kg pre-tension: the start tone waits until the chain is taut and still, jerky pulls are repeated, result from the best 2, curves in the summary. Device step always before training. Weights set in Settings."
+ "notes": "RFD in a max test now compares with the max of that same test (was the max stored before)."
 }
