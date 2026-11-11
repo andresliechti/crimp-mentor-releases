@@ -1,6 +1,6 @@
 {
- "build": 16,
- "date": "2026-11-07",
+ "build": 17,
+ "date": "2026-11-11",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "RFD in a max test now compares with the max of that same test (was the max stored before)."
+ "notes": "Tidier settings and help (tabs, cards fold, Done in the top bar), training view: hand on its side, bigger %, reps always visible, weights grouped. Compare with any session, average lines. Warm-up extended at 85 % CF. Force Board and Entralpi as beta. Reminder times."
 }
