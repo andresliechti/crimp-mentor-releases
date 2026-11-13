@@ -1,6 +1,6 @@
 {
- "build": 20,
+ "build": 21,
  "date": "2026-11-13",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "History with a month calendar (can be switched off) and small curves per session. Summary shows the result as a rope ring with a verdict and can be shared as an image. Settings with chalk icons, Help as cards to swipe, a new welcome. Plan shows the block as steps. Light mode on its own lighter stone. Fixed: arrow no longer touches the ring. Icon shows the whole ledge, name \u00abCrimp\u00bb."
+ "notes": "Rest days show your week goal and weeks in a row (carabiner after 4). Plan shows the week as a rope and a simpler finger load. Settings: each section opens as its own page. \u00abCard in zone colour\u00bb is now under Zone sound. Summary shows reps instead of a second \u00abin zone\u00bb. Softer transitions."
 }
