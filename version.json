@@ -1,6 +1,6 @@
 {
- "build": 21,
- "date": "2026-11-13",
+ "build": 22,
+ "date": "2026-11-14",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Rest days show your week goal and weeks in a row (carabiner after 4). Plan shows the week as a rope and a simpler finger load. Settings: each section opens as its own page. \u00abCard in zone colour\u00bb is now under Zone sound. Summary shows reps instead of a second \u00abin zone\u00bb. Softer transitions."
+ "notes": "New start screen: granite with chalk dust drifting like smoke. Settings on one page with clear headings, no categories to pick first. Help is its own page: tap \u00ab?\u00bb at the bottom right. Battery symbol back in the top bar. Icon with a slimmer ledge."
 }
