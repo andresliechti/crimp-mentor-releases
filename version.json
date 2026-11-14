@@ -1,6 +1,6 @@
 {
- "build": 25,
+ "build": 26,
  "date": "2026-11-14",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Max values fixed (invalid tries no longer delete the valid test), one max everywhere (% BW from it), RFD: you start yourself and it is its own test, simpler comparison, bigger graph in rests, \u00ab\u2191 First\u00bb for two sessions a day, warm-up counts 60 min, fairer finger load."
+ "notes": "History: programme and chart metric as buttons instead of dropdowns; progress grouped per programme like the comparison."
 }
