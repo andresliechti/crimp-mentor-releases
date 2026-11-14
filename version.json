@@ -1,6 +1,6 @@
 {
- "build": 23,
+ "build": 24,
  "date": "2026-11-14",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Max values left and right as one pair with the gap between. Smaller profile card (still on top). Plan knots in the programme colour, tap the load bars for numbers. History: progress as max, CF and contact strength. Settings show the current choice and use switches. Bigger, calmer text, gentle motion (can be switched off), new granite."
+ "notes": "Calmer colours: status labels in grey, orange instead of red for \u00abworse\u00bb, red only for real warnings."
 }
