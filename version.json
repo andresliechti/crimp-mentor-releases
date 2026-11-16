@@ -1,6 +1,6 @@
 {
- "build": 28,
- "date": "2026-11-16",
- "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "New look, one way of working everywhere: Today on about one screen with Start in the week card, programmes on their own page, one «Edge and grip» switch for the whole app (also both hands and hangboard), bigger SET/REP and a bigger force bar with a clear zone, finer rope, strip view for many reps, light mode in training, smoother display while pulling, tidier plan and history."
+  "build": 29,
+  "date": "2026-11-16",
+  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
+  "notes": "Build 29 – fixes and polish from your screenshots (16.11.)\n• Force bar: empty when you don't pull (the rope only shows your force); upright bar: target zone back in the upper third\n• Bar scale: only «Target …%» (no 0 / max)\n• Skip in longer rests (5 s stay for the countdown)\n• Speaker button mutes everything: tones, countdown, voice, zone sound (vibration stays)\n• Rests: ring in the opposite colour of your rope\n• Upright bar: time big on top, arrow below\n• Weights/hangboard: training view fills the screen, nothing overlaps\n• Ropes coarser again\n• Weight grid 0.25 · 0.5 · 1 · 2.5 · 5 kg\n• Choices everywhere as an even grid (filters, chart values, edges, fingers, block weeks …)\n• Summary: one small chart per hand, sets light → full colour, overlay «Compared» as a grey line; tidy hand cards\n• Today: tighter, max card fits on the screen; no doubled week goal / next line\n• Plan: climbing day can be moved, removed or edited; day sheet warnings no longer cut\n• History: details per programme below the sessions; «Sessions» only once; edge names everywhere\n• Data: «25 mm unlevel» (one max test, 18.10.) moved to «28 mm the overcome»"
 }
