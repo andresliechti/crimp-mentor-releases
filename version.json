@@ -1,6 +1,6 @@
 {
-  "build": 30,
-  "date": "2026-11-17",
+  "build": 31,
+  "date": "2026-11-18",
   "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
-  "notes": "Build 30 – your screenshots of 16.11. afternoon\n• Force bar keeps its size in rests and pauses (it shrank in the set rest)\n• Settings: folded sections no longer show their tiles\n• History: «since …» on Progress is a choice (4 weeks, 3 months, 6 months, 1 year, All) – the change arrows and the programme charts start there; the chart shows how many sessions\n• Calendar: the row follows the month you look at, the month name sits between the arrows\n• Ropes bigger and coarser, with finer strand detail; new pattern «Solid»\n• Landscape: reps card gets more room, set/rep line no longer runs into the %"
+  "notes": "Build 31 – your feedback of 18.11.\n• No more overlaps at the bottom in rests and pauses: bar and curve stay in their card, the ring gives way (checked in every state, 4 phone sizes, both views)\n• Get-ready ring in the opposite colour, like the rests\n• Force bar glides smoothly (about 25 ms behind the sensor, colour and sound stay instant), thinner: 64 px across, a quarter of the width upright\n• New: Settings → Look → Force bar look Rope · Solid (calm bar, the rest stays rope)\n• Block wizard: the goal sets the sessions per week, you move the days (tap a day, then the new one); climbing on any days; the plan's warnings already while choosing and in the check; «Delete block» with Undo"
 }
