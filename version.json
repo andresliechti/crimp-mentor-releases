@@ -1,6 +1,6 @@
 {
-  "build": 33,
-  "date": "2026-11-19",
-  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
-  "notes": "Build 33\n• Summary in kilograms: the chart per rep, the overlay with an earlier session, the hand cards (avg force in kg and % body weight) and the target note («target then 35.3 kg, now 36.0 kg»)"
+ "build": 34,
+ "date": "2026-11-19",
+ "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
+ "notes": "Build 34: capacity 3 sets of 24 / 27 / 30 reps over the block; learning only raises the intensity (up to about 95 % of your critical force) and no longer the reps; a newer CF test starts again at 85 %; «CF test due» on Today when the limit is reached; done sessions in the plan show what you really did."
 }
