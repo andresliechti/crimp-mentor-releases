@@ -1,6 +1,6 @@
 {
-  "build": 32,
+  "build": 33,
   "date": "2026-11-19",
   "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
-  "notes": "Build 32\n• Get ready, rests and pause: the bar takes the contrast colour too (like the ring); the ring in pause as well\n• Force bar back to the direct value (no smoothing delay)\n• Comparisons use what you really held: kg and % body weight instead of % of max (that moves whenever your max changes)\n• Warm-up: no step chips (40/55/70/80 %) in the training view any more"
+  "notes": "Build 33\n• Summary in kilograms: the chart per rep, the overlay with an earlier session, the hand cards (avg force in kg and % body weight) and the target note («target then 35.3 kg, now 36.0 kg»)"
 }
