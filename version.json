@@ -1,6 +1,6 @@
 {
-  "build": 31,
-  "date": "2026-11-18",
+  "build": 32,
+  "date": "2026-11-19",
   "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
-  "notes": "Build 31 – your feedback of 18.11.\n• No more overlaps at the bottom in rests and pauses: bar and curve stay in their card, the ring gives way (checked in every state, 4 phone sizes, both views)\n• Get-ready ring in the opposite colour, like the rests\n• Force bar glides smoothly (about 25 ms behind the sensor, colour and sound stay instant), thinner: 64 px across, a quarter of the width upright\n• New: Settings → Look → Force bar look Rope · Solid (calm bar, the rest stays rope)\n• Block wizard: the goal sets the sessions per week, you move the days (tap a day, then the new one); climbing on any days; the plan's warnings already while choosing and in the check; «Delete block» with Undo"
+  "notes": "Build 32\n• Get ready, rests and pause: the bar takes the contrast colour too (like the ring); the ring in pause as well\n• Force bar back to the direct value (no smoothing delay)\n• Comparisons use what you really held: kg and % body weight instead of % of max (that moves whenever your max changes)\n• Warm-up: no step chips (40/55/70/80 %) in the training view any more"
 }
