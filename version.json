@@ -1,6 +1,6 @@
 {
- "build": 34,
- "date": "2026-11-19",
+ "build": 35,
+ "date": "2026-11-21",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Build 34: capacity 3 sets of 24 / 27 / 30 reps over the block; learning only raises the intensity (up to about 95 % of your critical force) and no longer the reps; a newer CF test starts again at 85 %; «CF test due» on Today when the limit is reached; done sessions in the plan show what you really did."
+ "notes": "Build 35: new strength programme «Max pulls» – 6 s as hard as you can, hands take turns, 3 min rest per hand, 6 per hand. Settings → Planning → Strength day: Max pulls or Classic 5:3, from this week or the next block (default: Max pulls from the next block). Summary shows best pull, % body weight and average pull."
 }
