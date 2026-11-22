@@ -1,6 +1,6 @@
 {
- "build": 36,
- "date": "2026-11-21",
+ "build": 37,
+ "date": "2026-11-22",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Build 36: the same look before every pull – «Get ready» and the end of a hand switch now look alike: hand word and countdown in the card, force bar and reps stay below, hand badge always shown, set and rep always on two lines. Plan offers from Claude can now plan the next block, appointments in a later week and the strength day."
+ "notes": "Build 37: «Solid» force bar stays solid in every state (the upright bar showed rope in short rests and before the pull). Rests and get-ready: bigger ring and number, the same size every time – the card shows only set, rep and time, below only the force bar and the reps. Code cleaned up."
 }
