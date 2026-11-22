@@ -1,6 +1,6 @@
 {
- "build": 37,
+ "build": 38,
  "date": "2026-11-22",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Build 37: «Solid» force bar stays solid in every state (the upright bar showed rope in short rests and before the pull). Rests and get-ready: bigger ring and number, the same size every time – the card shows only set, rep and time, below only the force bar and the reps. Code cleaned up."
+ "notes": "Build 38: smooth start – granite splash, start screen, then Today, without flicker. More voice: new talk level «Chatty», Cheeky talks more, new lines for Max pulls, strength, power endurance, long set rests, the middle of a set and after a pause."
 }
