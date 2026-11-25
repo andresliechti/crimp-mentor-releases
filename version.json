@@ -1,6 +1,6 @@
 {
- "build": 38,
- "date": "2026-11-22",
+ "build": 39,
+ "date": "2026-11-25",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Build 38: smooth start – granite splash, start screen, then Today, without flicker. More voice: new talk level «Chatty», Cheeky talks more, new lines for Max pulls, strength, power endurance, long set rests, the middle of a set and after a pause."
+ "notes": "Build 39: new optional programme family \u00abBody\u00bb (Settings \u2192 Planning \u2192 Body training, off by default): Body strength (pull-up \u2194 push-up, leg raise \u2194 cossack squat), Shoulder care and a Body test with body weight and kettlebells. Planned like every programme with day sheet, block wizard, warnings and blue knots; one training frame with \u00abSet done\u00bb, rests as usual; the app moves you up step by step (undoable); Body goals in History, explanations in Help \u2192 Body. Kettlebells and bands in Settings \u2192 Equipment \u2192 Weights."
 }
