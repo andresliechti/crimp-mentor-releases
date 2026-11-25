@@ -1,6 +1,6 @@
 {
- "build": 40,
+ "build": 41,
  "date": "2026-11-25",
  "apk": "https://github.com/andresliechti/crimp-mentor-releases/raw/main/crimp-mentor.apk",
- "notes": "Build 40: adjustable dumbbell as a finer weight grid next to the kettlebells (Settings \u2192 Equipment \u2192 Weights). With many steps the weight in a Body session is set with \u2212 / +, the unit line names kettlebell or dumbbell, learning goes up in the finer steps, the Body test jumps at least 4 kg. Your band: blue (medium)."
+ "notes": "Build 41: one weight list \u2013 mark your kettlebells in Settings \u2192 Equipment \u2192 Weights, the rest are plates. The dumbbell is a handle plus plates of the list (yours: 2 handles of 1.1 kg, up to 8 plates each). Pull-ups: weight on a dip belt, never between the feet \u2013 kettlebells and dumbbells combine, the session says what to take."
 }
